@@ -2952,11 +2952,11 @@
     </spirit:parameter>
     <spirit:parameter>
       <spirit:name>C0.DDR4_SELF_REFRESH</spirit:name>
-      <spirit:value spirit:format="bool" spirit:resolve="user" spirit:id="PARAM_VALUE.C0.DDR4_SELF_REFRESH" spirit:order="42">false</spirit:value>
+      <spirit:value spirit:format="bool" spirit:resolve="user" spirit:id="PARAM_VALUE.C0.DDR4_SELF_REFRESH" spirit:order="42">true</spirit:value>
     </spirit:parameter>
     <spirit:parameter>
       <spirit:name>C0.DDR4_SAVE_RESTORE</spirit:name>
-      <spirit:value spirit:format="bool" spirit:resolve="user" spirit:id="PARAM_VALUE.C0.DDR4_SAVE_RESTORE" spirit:order="43">false</spirit:value>
+      <spirit:value spirit:format="bool" spirit:resolve="user" spirit:id="PARAM_VALUE.C0.DDR4_SAVE_RESTORE" spirit:order="43">true</spirit:value>
     </spirit:parameter>
     <spirit:parameter>
       <spirit:name>C0.DDR4_Clamshell</spirit:name>
